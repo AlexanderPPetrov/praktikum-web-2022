@@ -1,0 +1,16 @@
+body {
+    background-color: #f3f3f3;
+}
+.my-heading {
+    padding: 1.25rem;
+    border-radius: 1rem;
+    margin: 1rem;
+}
+
+.main-section-container {
+    border: 1px solid #e7e7e7;
+    border-radius: 1rem;
+    padding: 1rem;
+    background: white;
+    box-shadow: -1px 6px 18px -11px rgba(0,0,0,0.75);
+}
