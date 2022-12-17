@@ -14,3 +14,10 @@ body {
     background: white;
     box-shadow: -1px 6px 18px -11px rgba(0,0,0,0.75);
 }
+
+.toggle-list-group-item {
+    cursor: pointer;
+}
+.toggle-list-group-item:hover {
+    background-color: #d8d8d8;
+}
